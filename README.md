@@ -1,4 +1,4 @@
-# AI—Vantage v2 · Interview Pressure Simulator
+# AI—Vantage  · Interview Pressure Simulator
 
 Runs 100% locally using Mistral 7B via Ollama. No Anthropic API needed.
 
